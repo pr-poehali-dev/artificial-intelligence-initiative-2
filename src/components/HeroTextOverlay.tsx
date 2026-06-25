@@ -10,12 +10,12 @@ export default function HeroTextOverlay() {
           paintOrder: "stroke fill",
         }}
       >
-        МАКС
+        BEATS
       </h1>
       <p className="text-foreground font-mono text-sm md:text-base max-w-xs tracking-widest lg:text-base">
-        Ваш надежный гид
+        Маркетплейс битов
         <br />
-        в мире баз данных
+        покупай, продавай, слушай
       </p>
     </div>
   )
